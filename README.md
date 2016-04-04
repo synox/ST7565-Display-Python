@@ -13,7 +13,7 @@ I created this guide because I could not find a complete guide how to use the ST
 
 
 | LCD Pin | Raspberry Pi Pin Name (GPIO.BCM) | Raspberry Pi Pin Number |
-|-----| |-----| |-----|
+|------------------| ------ | ----------|
 | CS| BCM 2 | 3 |
 | RST| BCM 3 | 5 |
 | A0| BCM 4 | 7 |
@@ -21,10 +21,11 @@ I created this guide because I could not find a complete guide how to use the ST
 | SI| BCM 17 | 11 |
 | VDD| 3.3V | 1 |
 | GND| GND | 6 |
-| R- | (not tested) | - |
+| R- | (not tested) |  |
 | A+ | 3.3V  | 1 |
-| G- | (not tested) | - |
-| B- | (not tested) | - |
+| G- | (not tested) |  |
+| B- | (not tested) |  |
+
 
 See the position of the Pins at http://pinout.xyz/.
 
