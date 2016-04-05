@@ -44,7 +44,7 @@ You might want to try as well:
 - https://github.com/larsks/py-st7565
 
 ### Specification
-If you with to develop it further, you should look at the specification: https://cdn-shop.adafruit.com/product-files/250/TG12864H3-04MA0_A00.pdf  
+If you want to develop it further, you should look at the specification: https://cdn-shop.adafruit.com/product-files/250/TG12864H3-04MA0_A00.pdf  
 
 ## Further reading
  - http://www.ladyada.net/learn/lcd/st7565.html
