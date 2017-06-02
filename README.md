@@ -40,6 +40,7 @@ The Raspbian operating system provides the required python binary and the [Rpi.G
 Copy the python file [display.py](display.py) to the Raspberry Pi and run it. Extend the script. It is very simple and just a proof of work. The script is based on the Forum discussion at https://www.raspberrypi.org/forums/viewtopic.php?f=32&t=25029
 
 You might want to try as well:
+- https://github.com/rdagger/Pi-ST7565
 - https://github.com/MaliceWitch/ST7565-Pi-Python
 - https://github.com/larsks/py-st7565
 
